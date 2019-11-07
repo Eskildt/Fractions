@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Fractions</name>
+    </assembly>
+    <members>
+        <member name="M:Fractions.Fraction.Reduce">
+            <summary>
+            Reduces this fraction
+            </summary>
+            <returns>Nothing (void).</returns>
+        </member>
+        <member name="M:Fractions.Fraction.CompareTo(Fractions.Fraction)">
+            <summary>
+            Compares this fraction to another.
+            </summary>
+            <param name="other">The fraction to compare with.</param>
+            <returns>Returns 0 if equal, 1 if greater and -1 if less.</returns>
+        </member>
+        <member name="M:Fractions.Fraction.Reduce(Fractions.Fraction)">
+            <summary>
+            Reduces a fraction.
+            </summary>
+            <param name="f">The fraction to reduce.</param>
+            <returns>A reduced copy of the fraction.</returns>
+        </member>
+        <member name="M:Fractions.MathUtil.GreatestCommonDivisor(System.UInt32,System.UInt32)">
+            <summary>
+            Returns the greatest common divisor of two numbers.
+            </summary>
+            <param name="u"></param>
+            <param name="v"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Fractions.MathUtil.LeastCommonMultiple(System.UInt32,System.UInt32)">
+            <summary>
+            Finds the least Common Multiple between two numbers.
+             https://en.wikipedia.org/wiki/Least_common_multiple#Reduction_by_the_greatest_common_divisor
+            </summary>
+            <param name="u"></param>
+            <param name="v"></param>
+            <returns>Least common multiple of u and v.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,47 @@
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/pg3300-fraction/Fractions/bin/Debug/Fractions.exe.config
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/pg3300-fraction/Fractions/bin/Debug/Fractions.exe
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/pg3300-fraction/Fractions/bin/Debug/Fractions.pdb
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/pg3300-fraction/Fractions/obj/Debug/Fractions.csprojResolveAssemblyReference.cache
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/pg3300-fraction/Fractions/obj/Debug/Fractions.exe
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/pg3300-fraction/Fractions/obj/Debug/Fractions.pdb
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_08/Eksempler_08/Fractions/bin/Debug/Fractions.exe.config
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_08/Eksempler_08/Fractions/obj/Debug/Fractions.exe
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_08/Eksempler_08/Fractions/obj/Debug/Fractions.pdb
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_08/Eksempler_08/Fractions/bin/Debug/Fractions.exe
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_08/Eksempler_08/Fractions/bin/Debug/Fractions.pdb
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/Loesningsforslag_05/Fractions/bin/Debug/Fractions.exe.config
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/Loesningsforslag_05/Fractions/obj/Debug/Fractions.exe
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/Loesningsforslag_05/Fractions/obj/Debug/Fractions.pdb
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/Loesningsforslag_05/Fractions/bin/Debug/Fractions.exe
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/Loesningsforslag_05/Fractions/bin/Debug/Fractions.pdb
+C:/_MyStuff_/WesterdalsOsloACT/PG3300_Programvarearkitektur/Kode/_Forelesning_05/Loesningsforslag_05/Fractions/obj/Debug/Fractions.csprojResolveAssemblyReference.cache
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_Programvarearkitektur/Kode/_Forelesning_04/Loesningsforslag_04/Fractions/bin/Debug/Fractions.exe.config
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_Programvarearkitektur/Kode/_Forelesning_04/Loesningsforslag_04/Fractions/obj/Debug/Fractions.exe
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_Programvarearkitektur/Kode/_Forelesning_04/Loesningsforslag_04/Fractions/obj/Debug/Fractions.pdb
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_Programvarearkitektur/Kode/_Forelesning_04/Loesningsforslag_04/Fractions/bin/Debug/Fractions.exe
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_Programvarearkitektur/Kode/_Forelesning_04/Loesningsforslag_04/Fractions/bin/Debug/Fractions.pdb
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_Programvarearkitektur/Kode/_Forelesning_04/Loesningsforslag_04/Fractions/obj/Debug/Fractions.csprojResolveAssemblyReference.cache
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.exe.config
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.exe
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.pdb
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.exe
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.pdb
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.csprojResolveAssemblyReference.cache
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.XML
+C:/_MyStuff_/Westerdals Oslo ACT/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.csproj.CoreCompileInputs.cache
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.exe.config
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.XML
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.exe
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/bin/Debug/Fractions.pdb
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.csprojResolveAssemblyReference.cache
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.csproj.CoreCompileInputs.cache
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.exe
+C:/_MyStuff_/OneDrive - Høyskolen Kristiania/PG3300_SoftwareDesign/Oppgaver/PG3300_04_LoesningsKode/Fractions/obj/Debug/Fractions.pdb
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/bin/Debug/Fractions.exe.config
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/bin/Debug/Fractions.XML
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/bin/Debug/Fractions.exe
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/bin/Debug/Fractions.pdb
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/obj/Debug/Fractions.csprojAssemblyReference.cache
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/obj/Debug/Fractions.csproj.CoreCompileInputs.cache
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/obj/Debug/Fractions.exe
+/Users/eskildtangen/Downloads/PG3301_04_LoesningsKode/Fractions/obj/Debug/Fractions.pdb
